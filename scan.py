@@ -208,5 +208,5 @@ frame.columnconfigure(0, weight=1)
 frame.columnconfigure(1, weight=1)
 frame.rowconfigure(3, weight=1)
 
-# Start the main event loop
+# Start the main evnt loop
 root.mainloop()
